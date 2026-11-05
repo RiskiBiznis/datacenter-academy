@@ -1,0 +1,10 @@
+{
+  "name": "Data Center Academy \u2013 Technician II",
+  "short_name": "DC Academy",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "description": "Technician II crash course and virtual rack lab",
+  "icons": []
+}
